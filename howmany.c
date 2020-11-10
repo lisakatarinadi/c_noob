@@ -3,7 +3,7 @@
 int main()
 {
     char str[69];
-    int i, vowels, consonants, digits;
+    int i, vowels, consonants , digits;
 
     vowels =  0;
     consonants = 0;
